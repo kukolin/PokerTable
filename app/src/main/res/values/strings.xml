@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Poker Manager</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_next">Siguiente</string>
+    <string name="action_finish">Finalizar</string>
+    <string name="action_copy">Copiar</string>
+    <string name="poker_title">Gestión de Poker</string>
+    <string name="players_title">Jugadores</string>
+    <string name="boxes_title">Compras de Cajas</string>
+    <string name="final_count_title">Recuento Final</string>
+    <string name="summary_title">Resumen</string>
+    <string name="add_player">Agregar Jugador</string>
+    <string name="player_name">Nombre del Jugador</string>
+    <string name="player_name_hint">Ingresa el nombre</string>
+    <string name="add_box">Agregar Caja</string>
+    <string name="box_count">Cantidad de Cajas</string>
+    <string name="final_chips">Fichas Finales</string>
+    <string name="final_chips_hint">Ingresa las fichas finales</string>
+    <string name="payment_method">Método de Pago</string>
+    <string name="payment_cash">Efectivo</string>
+    <string name="payment_transfer">Transferencia</string>
+    <string name="session_date">Fecha de Sesión</string>
+    <string name="select_date">Seleccionar Fecha</string>
+    <string name="box_value">Valor por Caja: 5000 fichas</string>
+    <string name="total_positive">Total Positivo</string>
+    <string name="total_negative">Total Negativo</string>
+    <string name="net_result">Resultado Neto</string>
+    <string name="copy_success">Copiado al portapapeles</string>
+    <string name="error_empty_name">El nombre no puede estar vacío</string>
+    <string name="error_invalid_chips">Las fichas deben ser un número válido</string>
+    <string name="error_no_players">Debe haber al menos un jugador</string>
+    <string name="error_no_boxes">Debe haber al menos una caja comprada</string>
+</resources>
